@@ -1,4 +1,4 @@
-# implementation-of-GSP-algorithm
+# Implementation-of-GSP-algorithm
 
 ## EX3 Implementation of GSP Algorithm In Python
 DATE: 12/04/25
